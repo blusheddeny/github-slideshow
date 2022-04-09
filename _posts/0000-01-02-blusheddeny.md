@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-an der schonen blaue donau
+knuft land und land
 Use the left arrow to go back!
